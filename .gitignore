@@ -1,0 +1,9 @@
+# Database
+db.sqlite3
+migrations/
+
+# Libraries
+venv/
+
+# Build results
+*.pyc
